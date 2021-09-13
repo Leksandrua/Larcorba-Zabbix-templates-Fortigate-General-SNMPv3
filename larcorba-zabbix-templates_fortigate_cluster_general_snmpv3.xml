@@ -396,6 +396,7 @@
                             <key>ifHighSpeed[{#SNMPVALUE}]</key>
                             <delay>300</delay>
                             <history>2w</history>
+                            <units>bps</units>
                             <snmpv3_securityname>{$FGT_V3_USER}</snmpv3_securityname>
                             <snmpv3_securitylevel>AUTHPRIV</snmpv3_securitylevel>
                             <snmpv3_authprotocol>SHA</snmpv3_authprotocol>
